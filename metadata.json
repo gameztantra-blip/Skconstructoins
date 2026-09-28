@@ -1,0 +1,6 @@
+{
+  "name": "SK Constructions - Turnkey Construction & Civil Engineering in Bangalore",
+  "description": "Production-ready website for SK Constructions Bangalore: turnkey villas, independent duplex homes, real-time cost calculator, 3D architectural visualizer, RERA escrow governance, and instant WhatsApp quoting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
